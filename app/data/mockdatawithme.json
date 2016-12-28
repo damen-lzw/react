@@ -1,6 +1,7 @@
 /**
 将以下模板粘贴到(http://mockjs.com/examples.html)的控制台
 把生成的模拟数据粘贴出来，保存成JSON格式的文件
+this is also from git
 */
 var data=Mock.mock({
     "rowData|18-48":[{
